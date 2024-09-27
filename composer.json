@@ -1,0 +1,18 @@
+{
+    "name": "nikita/11",
+    "autoload": {
+        "psr-4": {
+            "Nikita\\11\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Redko",
+            "email": "nik.ita-redko@yandex.ru"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "telegram-bot/api": "^2.5"
+    }
+}
